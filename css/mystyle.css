@@ -1,0 +1,23 @@
+h1{
+color: DarkTurquoise;
+}
+body{
+	background-color: #f5bbee; 
+	  
+}
+
+
+.container{
+    background-color:floralwhite;
+    padding: 0;
+}
+.img-responsive{
+    max-width: 600px;
+    width: 100%;
+    display:block;
+    height:auto;
+    
+}
+#coloumn {
+    float: left;
+}
